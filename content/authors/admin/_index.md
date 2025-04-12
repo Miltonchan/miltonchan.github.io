@@ -88,7 +88,7 @@ work:
     company_logo: ''
     date_start: 2023-09-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Collaborate with professors and teachers to develop the AI curriculum for students in Generative AI 
       - Served as a teaching assistant/instructor for teacher training 
@@ -99,7 +99,7 @@ work:
     company_logo: ''
     date_start: 2023-07-01
     date_end: 2023-07-31
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Design AI teaching materials for the AI curriculum
       - Assist teacher training workshops
@@ -110,7 +110,7 @@ work:
     company_logo: ''
     date_start: 2023-03-01
     date_end: 2023-06-31
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Design AI teaching materials for the AI curriculum
       - Assist AI summer camp for primary school students 
