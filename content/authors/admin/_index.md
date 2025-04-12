@@ -104,17 +104,17 @@ work:
       - Design AI teaching materials for the AI curriculum
       - Assist teacher training workshops
 
-  - position: Intern - Curriculum Development Team
+  - position: Student Helper - Curriculum Development Team
     company_name: The Chinese University of Hong Kong
     company_url: 'https://www.cuhk.edu.hk/english/index.html'
     company_logo: ''
-    date_start: 2023-07-01
-    date_end: 2023-07-31
+    date_start: 2023-03-01
+    date_end: 2023-06-31
     summary: |
       Responsibilities include:
       - Design AI teaching materials for the AI curriculum
-      - Assist teacher training workshops
-      
+      - Assist AI summer camps for primary school students
+
   # - position: Student Helper - Curriculum Development Team
   #   company_name: The Chinese University of Hong Kong
   #   company_url: 'https://www.cuhk.edu.hk/english/index.html'
