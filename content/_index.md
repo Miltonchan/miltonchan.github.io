@@ -6,7 +6,9 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  # spacing: "6rem"
+  spacing:
+    padding: ['20px', '0', '20px', '0']
 
 sections:
   - block: resume-biography-3
@@ -30,9 +32,7 @@ sections:
         #   size: cover
         #   position: center
         #   parallax: false
-    spacing:
-      padding: ['20px', '0', '20px', '0']
-      
+
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
