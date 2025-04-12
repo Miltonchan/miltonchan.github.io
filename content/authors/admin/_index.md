@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陳昆銓
+title: Chan Kwan Chuen
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
