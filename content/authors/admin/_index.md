@@ -148,10 +148,11 @@ skills:
 
   - name: Web Development
     items:
-      - name: HTML, CSS, JavaScript
-      - name: React
-      - name: Node.js, Express
-      - name: MongoDB, Java™ database connectivity (JDBC)
+      - name: HTML
+      - name: CSS
+      - name: JavaScript
+      - name: React, Node.js, Expres
+      - name: MongoDB, JDEB
 
       # - name: Python
       #   description: ''
