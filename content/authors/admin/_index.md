@@ -78,9 +78,9 @@ education:
     date_start: 2019-09-01
     date_end: 2023-07-31
     summary: |
-      Minors: Computer Science, Data Analytics and Informatics
-      Courses: Information Systems Management, Machine Learning, Optimization, Statistics, Database, Software Engineering
-      
+      - Minors: Computer Science, Data Analytics and Informatics
+      - Courses: Information Systems Management, Machine Learning, Optimization, Statistics, Database, Software Engineering
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
