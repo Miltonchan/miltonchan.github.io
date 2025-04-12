@@ -223,6 +223,10 @@ awards:
     date: '2024-08-20'
     awarder: HKFYG (Creative Education Unit)     
 
+  - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
+    date: '2022-08-12'
+    awarder: Hong Kong Science Park   
+
   # - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
   #   date: '2022-08-12'
   #   awarder: Hong Kong Science Park                                         
