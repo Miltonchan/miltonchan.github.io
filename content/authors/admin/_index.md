@@ -109,44 +109,33 @@ work:
     company_url: 'https://www.cuhk.edu.hk/english/index.html'
     company_logo: ''
     date_start: 2023-03-01
-    date_end: 2023-06-31
+    date_end: 2023-06-30
     summary: |
       Responsibilities include:
       - Design AI teaching materials for the AI curriculum
-      - Assist AI summer camps for primary school students
+      - Assist AI summer camp for primary school students 
 
-  # - position: Student Helper - Curriculum Development Team
-  #   company_name: The Chinese University of Hong Kong
-  #   company_url: 'https://www.cuhk.edu.hk/english/index.html'
-  #   company_logo: ''
-  #   date_start: 2023-03-01
-  #   date_end: 2023-06-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Design AI teaching materials for the AI curriculum
-  #     - Assist AI summer camp for primary school students 
+  - position: Machine Learning Engineer - Technical Team
+    company_name: Neufast Limited
+    company_url: 'https://www.neufast.com/'
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2022-08-31
+    summary: |
+      Responsibilities include:
+      - Design a machine learning model to predict the interview score for candidates
+      - Engage in HKSTP summer internship workshop - lean entrepreneurship bootcamp
 
-  # - position: Machine Learning Engineer - Technical Team
-  #   company_name: Neufast Limited
-  #   company_url: 'https://www.neufast.com/'
-  #   company_logo: ''
-  #   date_start: 2022-06-01
-  #   date_end: 2022-08-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Design a machine learning model to predict the interview score for candidates
-  #     - Engage in HKSTP summer internship workshop - lean entrepreneurship bootcamp
-
-  # - position: Data Engineer – Technical Team
-  #   company_name: InnoBlock Technology Limited
-  #   company_url: 'https://www.innoblocktech.com/'
-  #   company_logo: ''
-  #   date_start: 2021-07-01
-  #   date_end: 2021-08-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Develop a deep learning model for regulatory technology on data leakage detection
-  #     - Fine-tune a neural network for text recognition on Hong Kong identity card
+  - position: Data Engineer – Technical Team
+    company_name: InnoBlock Technology Limited
+    company_url: 'https://www.innoblocktech.com/'
+    company_logo: ''
+    date_start: 2021-07-01
+    date_end: 2021-08-31
+    summary: |
+      Responsibilities include:
+      - Develop a deep learning model for regulatory technology on data leakage detection
+      - Fine-tune a neural network for text recognition on Hong Kong identity card
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
