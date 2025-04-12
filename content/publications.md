@@ -30,10 +30,10 @@ sections:
       title: Newspaper Articles
       items:
         - name: 生成式AI惹爭議 原創版權難界定
-          description: [Read more](https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
+          description: Read more(https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
           image: content/images/new1.jpg
         - name: Article 2
-          description: [Read more](https://www.example.com/article2)
+          description: Read more(https://www.example.com/article2)
           image: /images/article2.jpg
         - name: Article 3
           description: Summary of Article 3. [Read more](https://www.example.com/article3)
