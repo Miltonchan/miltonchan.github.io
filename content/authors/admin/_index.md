@@ -140,7 +140,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: Programming
     items:
       - name: Python
       - name: C++
@@ -151,8 +151,11 @@ skills:
       - name: HTML
       - name: CSS
       - name: JavaScript
-      - name: React, Node.js, Expres
-      - name: MongoDB, JDEB
+      - name: React
+      - name: Node.js
+      - name: Express
+      - name: MongoDB
+      - name: JDBC
 
       # - name: Python
       #   description: ''
