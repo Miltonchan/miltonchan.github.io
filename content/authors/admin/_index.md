@@ -223,17 +223,13 @@ awards:
     date: '2024-08-20'
     awarder: HKFYG (Creative Education Unit)     
 
-  - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
+  - title: HKSTP Summer Internship Workshop Lean Entrepreneurial Bootcamp - Champion
     date: '2022-08-12'
     awarder: Hong Kong Science Park   
-
-  # - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
-  #   date: '2022-08-12'
-  #   awarder: Hong Kong Science Park                                         
-
-  # - title: JA Company Programme - Best Booth Award Finalist & Teamwork Award Winner
-  #   date: '2015-08-02' 
-  #   awarder: Junior Achievement Hong Kong                                                
+                                       
+  - title: JA Company Programme - Best Booth Award Finalist & Teamwork Award Winner
+    date: '2015-08-02' 
+    awarder: Junior Achievement Hong Kong                                                
 
 
   # - title: Neural Networks and Deep Learning
@@ -267,6 +263,4 @@ awards:
 
 ## About Me
 
-Milton Chan is 
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Milton Chan earned a Bachelor’s degree in Systems Engineering and Engineering Management, with minors in Computer Science and Data Analytics & Informatics, from the Chinese University of Hong Kong in 2023. During his studies, he developed theoretical and practical expertise in AI through coursework and internships, working on projects such as AI-driven recruitment interviews and HKID card text recognition. He now serves as a Research Assistant in the Curriculum Team of the CUHK Jockey Club AI for the Future Project, where he designs generative AI teaching materials for junior secondary students, coordinates educational programmes, and writes columns for the Wen Wei Po Education Edition.
