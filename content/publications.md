@@ -19,4 +19,39 @@ sections:
       title:  
       subtitle: This work is conducted under the CUHK Jockey Club AI for the Future Project
       text: 
+
+  - block: features
+    content:
+      title: Newspaper Articles
+      items:
+        - name: Article 1
+          description: Summary of Article 1. [Read more](https://www.example.com/article1)
+          image: /images/article1.jpg
+        - name: Article 2
+          description: Summary of Article 2. [Read more](https://www.example.com/article2)
+          image: /images/article2.jpg
+        - name: Article 3
+          description: Summary of Article 3. [Read more](https://www.example.com/article3)
+          image: /images/article3.jpg
+        - name: Article 4
+          description: Summary of Article 4. [Read more](https://www.example.com/article4)
+          image: /images/article4.jpg
+        - name: Article 5
+          description: Summary of Article 5. [Read more](https://www.example.com/article5)
+          image: /images/article5.jpg
+        - name: Article 6
+          description: Summary of Article 6. [Read more](https://www.example.com/article6)
+          image: /images/article6.jpg
+        - name: Article 7
+          description: Summary of Article 7. [Read more](https://www.example.com/article7)
+          image: /images/article7.jpg
+        - name: Article 8
+          description: Summary of Article 8. [Read more](https://www.example.com/article8)
+          image: /images/article8.jpg
+        - name: Article 9
+          description: Summary of Article 9. [Read more](https://www.example.com/article9)
+          image: /images/article9.jpg
+        - name: Article 10
+          description: Summary of Article 10. [Read more](https://www.example.com/article10)
+          image: /images/article10.jpg
 ---
