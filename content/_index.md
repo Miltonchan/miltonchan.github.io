@@ -31,6 +31,20 @@ sections:
         #   size: cover
         #   position: center
         #   parallax: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 
   # - block: markdown
   #   content:
@@ -119,8 +133,8 @@ sections:
   #     button:
   #       text: Get Started
   #       url: https://hugoblox.com/templates/
-    design:
-      card:
+    # design:
+    #   card:
         # Card background color (CSS class)
         # css_class: "bg-primary-700"
         # css_style: ""
