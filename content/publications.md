@@ -24,14 +24,19 @@ type: landing
 sections:
 - block: features
   content:
+    title: Publications
+    items:
+    - name: Generative AI Curriculum Introductory Brochure
+      description: .[Read more](https://cuhkjc-aiforfuture.hk/index.php/en/aibrochure/)
+
+- block: features
+  content:
     title: Newspaper Articles
     items:
     - name: Article 1 Title
       description: Summary of Article 1. [Read more](/publication/article1)
-      # image: /images/article1.jpg
+      image: /images/article1.jpg
     - name: Article 2 Title
       description: Summary of Article 2. [Read more](/publication/article2)
-      # image: /images/article2.jpg
-    # Repeat for all ten articles
-
+      image: /images/article2.jpg
 ---
