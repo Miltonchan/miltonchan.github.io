@@ -23,14 +23,14 @@ sections:
       css_class: light
       background:
         color: white
-        # image:
-        #   # Add your image background to `assets/media/`.
-        #   filename: stacked-peaks.svg
-        #   filters:
-        #     brightness: 1.0
-        #   size: cover
-        #   position: center
-        #   parallax: false
+        image:
+          # Add your image background to `assets/media/`.
+          filename: subtle-prism.svg
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
   - block: resume-skills
     content:
       title: Skills & Hobbies
