@@ -36,7 +36,6 @@ sections:
       title: Skills & Hobbies
       username: admin
     design:
-      columns: '4'
       show_skill_percentage: false
   - block: resume-awards
     content:
