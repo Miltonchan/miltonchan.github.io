@@ -124,8 +124,7 @@ work:
     summary: |
       Responsibilities include:
       - Design a machine learning model to predict the interview score for candidates
-      Activity Engage:
-      - HKSTP summer internship workshops: lean entrepreneurship bootcamp
+      - Engage in HKSTP summer internship workshop - lean entrepreneurship bootcamp
 
   - position: Data Engineer – Technical Team
     company_name: InnoBlock Technology Limited
