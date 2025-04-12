@@ -7,7 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "2rem"
-  
+
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
@@ -29,8 +29,8 @@ sections:
     content:
       title: Newspaper Articles
       items:
-        - name: Article 1
-          description: Summary of Article 1. [Read more](https://www.example.com/article1)
+        - name: 生成式AI惹爭議 原創版權難界定
+          description: Summary of Article 1. [Read more](https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
           image: /images/article1.jpg
         - name: Article 2
           description: Summary of Article 2. [Read more](https://www.example.com/article2)
