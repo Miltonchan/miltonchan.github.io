@@ -88,7 +88,7 @@ work:
     company_logo: ''
     date_start: 2023-09-01
     date_end: ''
-    summary: |5-
+    summary: |2-
       Responsibilities include:
       - Collaborate with professors and teachers to develop the AI curriculum for students in Generative AI 
       - Served as a teaching assistant/instructor for teacher training 
@@ -104,39 +104,39 @@ work:
       - Design AI teaching materials for the AI curriculum
       - Assist teacher training workshops
 
-  - position: Student Helper - Curriculum Development Team
-    company_name: The Chinese University of Hong Kong
-    company_url: 'https://www.cuhk.edu.hk/english/index.html'
-    company_logo: ''
-    date_start: 2023-03-01
-    date_end: 2020-06-31
-    summary: |
-      Responsibilities include:
-      - Design AI teaching materials for the AI curriculum
-      - Assist AI summer camp for primary school students 
+  # - position: Student Helper - Curriculum Development Team
+  #   company_name: The Chinese University of Hong Kong
+  #   company_url: 'https://www.cuhk.edu.hk/english/index.html'
+  #   company_logo: ''
+  #   date_start: 2023-03-01
+  #   date_end: 2020-06-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Design AI teaching materials for the AI curriculum
+  #     - Assist AI summer camp for primary school students 
 
-  - position: Machine Learning Engineer, Technical Team
-    company_name: Neufast Limited
-    company_url: 'https://www.neufast.com/'
-    company_logo: ''
-    date_start: 2022-06-01
-    date_end: 2022-06-31
-    summary: |
-      Responsibilities include:
-      - Design a machine learning model to predict the interview score for candidates
-      Activity Engage: 
-      - HKSTP summer internship workshops: lean entrepreneurship bootcamp
+  # - position: Machine Learning Engineer, Technical Team
+  #   company_name: Neufast Limited
+  #   company_url: 'https://www.neufast.com/'
+  #   company_logo: ''
+  #   date_start: 2022-06-01
+  #   date_end: 2022-06-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Design a machine learning model to predict the interview score for candidates
+  #     Activity Engage: 
+  #     - HKSTP summer internship workshops: lean entrepreneurship bootcamp
       
-  - position: Data Engineer – AI Assistant, Technical Team
-    company_name: InnoBlock Technology Limited   
-    company_url: 'https://www.innoblocktech.com/'
-    company_logo: ''
-    date_start: 2021-07-01
-    date_end: 2022-08-31
-    summary: |
-      Responsibilities include:
-      - Develop a deep learning model for regulatory technology on data leakage detection
-      - Fine-tuning a neural network for text recognition on Hong Kong identity card
+  # - position: Data Engineer – AI Assistant, Technical Team
+  #   company_name: InnoBlock Technology Limited   
+  #   company_url: 'https://www.innoblocktech.com/'
+  #   company_logo: ''
+  #   date_start: 2021-07-01
+  #   date_end: 2022-08-31
+  #   summary: |
+  #     Responsibilities include:
+  #     - Develop a deep learning model for regulatory technology on data leakage detection
+  #     - Fine-tuning a neural network for text recognition on Hong Kong identity card
       
 
 # Skills
