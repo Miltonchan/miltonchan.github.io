@@ -7,7 +7,6 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  padding: ['40px', '0', '20px', '0']
 
 sections:
   - block: resume-biography-3
@@ -31,6 +30,9 @@ sections:
         #   size: cover
         #   position: center
         #   parallax: false
+    spacing:
+      padding: ['20px', '0', '20px', '0']
+      
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -121,6 +123,6 @@ sections:
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
+        # css_class: "bg-primary-700"
+        # css_style: ""
 ---
