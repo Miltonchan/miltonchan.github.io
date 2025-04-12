@@ -261,6 +261,6 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
 Milton Chan earned a Bachelor’s degree in Systems Engineering and Engineering Management, with minors in Computer Science and Data Analytics & Informatics, from the Chinese University of Hong Kong in 2023. During his studies, he developed theoretical and practical expertise in AI through coursework and internships, working on projects such as AI-driven recruitment interviews and HKID card text recognition. He now serves as a Research Assistant in the Curriculum Team of the CUHK Jockey Club AI for the Future Project, where he designs generative AI teaching materials for junior secondary students, coordinates educational programmes, and writes columns for the Wen Wei Po Education Edition.
