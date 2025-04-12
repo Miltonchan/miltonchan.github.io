@@ -8,14 +8,14 @@ type: landing
 sections:
   - block: markdown
     id: section-1
-    content:
-      title: Section 1
-      subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+    content: 
+      title: Generative AI Curriculum Introductory Brochure
+      subtitle: This work is conducted under the CUHK Jockey Club AI for the Future Project
+      text: A supplementary chapter of pre-tertiary AI education framework on Generative AI for Hong Kong
   - block: markdown
     id: section-2
     content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
+      title:  
+      subtitle: This work is conducted under the CUHK Jockey Club AI for the Future Project
+      text: 
 ---
