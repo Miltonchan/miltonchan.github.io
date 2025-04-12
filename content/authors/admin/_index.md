@@ -220,25 +220,16 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: LEAD Engineer Training Scheme 2024 (Stage 1) 
-    url: 
     date: '2024-08-20'
     awarder: HKFYG (Creative Education Unit)                                                       
-    icon: 
-    summary:
 
   - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
-    url: 
     date: '2022-08-12'
     awarder: Hong Kong Science Park                                                    
-    icon: 
-    summary:
 
   - title: JA Company Programme - Best Booth Award Finalist & Teamwork Award Winner
-    url: 
-    date: '2015-08-02' 
+    url: 2015-08-02' 
     awarder: Junior Achievement Hong Hong                                                    
-    icon: 
-    summary:
 
 
   # - title: Neural Networks and Deep Learning
@@ -271,5 +262,7 @@ awards:
 ---
 
 ## About Me
+
+Milton Chan is 
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
