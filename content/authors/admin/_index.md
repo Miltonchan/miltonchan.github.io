@@ -221,17 +221,19 @@ languages:
 awards:
   # - title: LEAD Engineer Training Scheme 2024 (Stage 1) 
   #   date: '2024-08-20'
-  #   awarder: HKFYG (Creative Education Unit)                                                       
+  #   awarder: HKFYG (Creative Education Unit)     
+
   # - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
   #   date: '2022-08-12'
-  #   awarder: Hong Kong Science Park                                                    
+  #   awarder: Hong Kong Science Park                                         
+
   # - title: JA Company Programme - Best Booth Award Finalist & Teamwork Award Winner
   #   date: '2015-08-02' 
-  #   awarder: Junior Achievement Hong Hong                                                    
+  #   awarder: Junior Achievement Hong Kong                                                
 
 
   - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
     awarder: Coursera
     icon: coursera
