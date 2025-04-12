@@ -12,17 +12,11 @@ sections:
       title: Generative AI Curriculum Introductory Brochure
       subtitle: This work is conducted under the CUHK Jockey Club AI for the Future Project
       text: A supplementary chapter of pre-tertiary AI education framework on Generative AI for Hong Kong
+
   - block: markdown
     id: section-2
     content:
       title:  
       subtitle: This work is conducted under the CUHK Jockey Club AI for the Future Project
       text: 
-
-  - block: markdown
-    content:
-      title: Publications
-      name: Generative AI Curriculum Introductory Brochure
-      description: [Read more](https://cuhkjc-aiforfuture.hk/index.php/en/aibrochure/)
-      image:
 ---
