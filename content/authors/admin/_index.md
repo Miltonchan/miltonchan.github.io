@@ -224,21 +224,21 @@ awards:
     date: '2024-08-20'
     awarder: HKFYG (Creative Education Unit)                                                       
     icon: 
-    summary:
+    summary: |
 
   - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
     url: 
     date: '2022-08-12'
     awarder: Hong Kong Science Park                                                    
     icon: 
-    summary:
+    summary: |
 
   - title: JA Company Programme - Best Booth Award Finalist & Teamwork Award Winner
     url: 
     date: '2015-08-02' 
     awarder: Junior Achievement Hong Hong                                                    
     icon: 
-    summary:
+    summary: |
 
 
   # - title: Neural Networks and Deep Learning
