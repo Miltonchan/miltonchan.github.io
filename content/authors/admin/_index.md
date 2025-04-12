@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/Miltonchan
   - icon: brands/linkedin
-    url: www.linkedin.com/in/milton-chan-8148a21b1
+    url: https://www.linkedin.com/in/milton-chan-8148a21b1
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
