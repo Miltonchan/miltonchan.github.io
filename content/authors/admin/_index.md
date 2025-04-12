@@ -220,22 +220,22 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: LEAD Engineer Training Scheme 2024 (Stage 1) 
-    url: ''
+    url:
     date: '2024-08-20'
     awarder: HKFYG (Creative Education Unit)                                                       
-    icon: ''
+    icon: 
     summary: |
   - title: HKSTP summer internship workshop: Lean Entrepreneurial Bootcamp - Champion
-    url: ''
+    url:
     date: '2022-08-12'
     awarder: Hong Kong Science Park                                                    
-    icon: ''
+    icon:
     summary: |
   - title: JA Company Programme - Best Booth Award Finalist & Teamwork Award Winner
-    url: ''
+    url:
     date: '2015-08-02' 
     awarder: Junior Achievement Hong Hong                                                    
-    icon: ''
+    icon:
     summary: |
   # - title: Neural Networks and Deep Learning
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
