@@ -39,7 +39,7 @@ sections:
 #     - name: Article 2 Title
 #       description: Summary of Article 2. [Read more](/publication/article2)
 #       image: /images/article2.jpg
-- block: list
+- block: markdown
   id: section-1
   content:
     title: Section 1
