@@ -30,18 +30,18 @@ sections:
       title: Newspaper Articles
       items:
         - name: 生成式AI惹爭議 原創版權難界定
-          description: This work is conducted under the CUHK Jockey Club AI for the Future Project. [Read more](https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
-        - name: Article 2
-          description: This work is conducted under the CUHK Jockey Club AI for the Future Project. [Read more](https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
-        - name: Article 3
+          description: This work is conducted under the CUHK Jockey Club AI for the Future Project - [Read more](https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
+        - name: 雲端運算結合AI 加速迎接智能時代
+          description: This work is conducted under the CUHK Jockey Club AI for the Future Project - [Read more](https://dw-media.tkww.hk/epaper/wwp/20231115/a17-1115.pdf)
+        - name: 伺服器過度耗能 AI如何環保發展
           description: Summary of Article 3. [Read more](https://www.example.com/article3)
-        - name: Article 4
+        - name: AI難以取代人類 未來發展仍可期
           description: Summary of Article 4. [Read more](https://www.example.com/article4)
-        - name: Article 5
+        - name: AI檢測腦退化 影「眼底相」價廉便捷
           description: Summary of Article 5. [Read more](https://www.example.com/article5)
-        - name: Article 6
+        - name: AI面試官析特徵 戴頭巾添親和
           description: Summary of Article 6. [Read more](https://www.example.com/article6)
-        - name: Article 7
+        - name: AI代理自動規劃 工作生活更便捷
           description: Summary of Article 7. [Read more](https://www.example.com/article7)
         - name: Article 8
           description: Summary of Article 8. [Read more](https://www.example.com/article8)
