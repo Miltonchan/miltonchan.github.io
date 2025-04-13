@@ -1,5 +1,5 @@
 ---
-title: Optimization Algorithms in Statistical Learning – Final Year Project
+title: Final Year Project - Optimization Algorithms in Statistical Learning
 date: 2023-05-12
 external_link: 
 # tags:
