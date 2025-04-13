@@ -7,5 +7,5 @@ external_link:
 #   - Wowchemy
 #   - Markdown
 ---
-Main functions include a discussion platform, reward and ranking systems
+FullStack development - Main functions include a discussion platform, reward and ranking systems
 <!--more-->
