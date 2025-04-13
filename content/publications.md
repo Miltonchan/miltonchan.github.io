@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "5rem"
+  spacing: "2rem"
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
