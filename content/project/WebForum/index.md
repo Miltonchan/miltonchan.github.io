@@ -1,5 +1,5 @@
 ---
-title: An Education WebForum for Secondary School Students
+title: An Educational WebForum for Secondary School Students
 date: 2024-04-20
 external_link: 
 # tags:
