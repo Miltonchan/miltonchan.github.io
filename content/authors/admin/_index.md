@@ -219,6 +219,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Certificate of Appreciation for Contributions as a Judge, 2024 Generative AI Competition
+    date: '2024-11-09'
+    awarder: Education Innovation Research Institute in Greater Bay Area 
+
   - title: LEAD Engineer Training Scheme 2024 (Stage 1) 
     date: '2024-08-20'
     awarder: HKFYG (Creative Education Unit)     
