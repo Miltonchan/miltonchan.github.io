@@ -1,6 +1,6 @@
 ---
 title: An Education WebForum for Secondary School Students
-date: 2024-4-20
+date: 2024-04-20
 external_link: 
 # tags:
 #   - Hugo
@@ -8,5 +8,4 @@ external_link:
 #   - Markdown
 ---
 Main functions include a discussion platform, reward and ranking systems
-
 <!--more-->

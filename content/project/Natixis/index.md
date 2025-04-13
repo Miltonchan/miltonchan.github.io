@@ -7,7 +7,5 @@ external_link: https://github.com/Miltonchan/Ethereum-Fraud-Detection.git
 #   - Wowchemy
 #   - Markdown
 ---
-
 Detected fraudulent Ethereum addresses by applying the XGBoost model and feature learning techniques on the Ethereum transactions dataset and achieved an accuracy score of 90.33%
-
 <!--more-->
