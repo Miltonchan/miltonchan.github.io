@@ -1,5 +1,5 @@
 ---
-title: Generative AI for Images: Innovative Technologies and Practical Applications
+title: "Generative AI for Images: Innovative Technologies and Practical Applications"
 summary: Speaker
 date: 2024-12-11
 type: docs
