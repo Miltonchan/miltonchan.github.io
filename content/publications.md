@@ -38,7 +38,7 @@ sections:
         - name: AI難以取代人類 未來發展仍可期
           description: This work is conducted under the CUHK Jockey Club AI for the Future Project - [Read more](https://dw-media.tkww.hk/epaper/wwp/20240131/b10-0131.pdf)
         - name: AI檢測腦退化 影「眼底相」價廉便捷
-          description: This work is conducted under the CUHK Jockey Club AI for the Future Project - [Read more](https://www.wenweipo.com/a/202405/29/AP665638bfe4b00a6e8c3976a0.html)
+          description: This work is conducted under the CUHK Jockey Club AI for the Future Project - [Read more](https://dw-media.tkww.hk/epaper/wwp/20240529/b05-0529.pdf)
         - name: AI面試官析特徵 戴頭巾添親和
           description: This work is conducted under the CUHK Jockey Club AI for the Future Project - [Read more](https://dw-media.tkww.hk/epaper/wwp/20240529/b05-0529.pdf)
         - name: AI代理自動規劃 工作生活更便捷
